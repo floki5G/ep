@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+#title{
+    text-align: center;
+    margin: 20px;
+}
+#img{
+    
+    box-sizing: border-box;
+    margin: 20px;
+}
+#img img{
+    height:20em;
+
+    width: 30em;
+}
+#imgdsc{
+    display: flex;
+}
+#dsc{
+}
